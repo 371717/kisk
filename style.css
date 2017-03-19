@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background: url(https://image.ibb.co/kPGfka/space_03.jpg);
+	background-attachment: fixed;
+	color: #FFF;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-align: justify;
+	max-width: 800px;
+	margin: auto;
+}
+
+header, footer
+{
+	background-color: #000;
+	padding: 0px;
+	text-align: center;
+	
+}
+
+a
+{
+	color: #0F0;
+}
+	
+.zanr
+{
+	text-decoration: underline;
+	font-size: 18px;
+}
+
+h1
+{
+	text-transform: uppercase;
+	line-height: 150%;
+	font-weight: 600;
+}
+
+h1, .zanr
+{
+	font-style: normal;
+}
+
+header, footer
+{
+	border: solid;
+	border-color: #FF0;
+}
+
+
+
+.name
+{
+	font-style: italic;
+}
+
+.content
+{
+	background: rgba(255,255,255, 0.1);
+	padding-left: 3px;
+	padding-right: 3px;
+}
