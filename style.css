@@ -25,10 +25,21 @@ a
 	color: #0F0;
 }
 	
-.zanr footer
+.zanr
 {
-	text-decoration: underline;
-	font-size: 18px;
+	text-align: center;
+  margin: 5px;
+  padding:10px;
+  font-size: 50px;
+  border-style: dotted;
+  border-color: darkred;
+}
+
+h2:first-letter  {
+      
+      font-size: 180%;
+      
+      }      
 }
 
 h1
